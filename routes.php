@@ -1,6 +1,6 @@
 <?php
 
-$viewsDirctory = "/views";
+$baseDirectory = "/views";
 
 $routes = [
     "" => "index.php",
